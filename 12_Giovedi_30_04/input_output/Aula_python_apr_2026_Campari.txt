@@ -1,0 +1,7 @@
+Classe: python_apr_2026
+Materia: python
+
+Studenti:
+Gianluca Cappadonna
+Cappadonna Gianluca
+Gianlu Cappa
