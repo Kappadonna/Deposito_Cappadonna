@@ -1,0 +1,7 @@
+Giorno: 1/5/2026
+214.0
+213.0
+432.0
+Totale: 859.0
+Media: 286.3333333333333
+Vendite sopra la media: [432.0]
